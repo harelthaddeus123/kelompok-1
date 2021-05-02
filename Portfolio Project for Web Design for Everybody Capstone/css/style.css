@@ -37,7 +37,7 @@ select {
     display: block;
     padding: 0 30px;
     position: fixed;
-    left: 270px;
+    left: 209px;
     top: 0;
     right: 0;
     bottom: 0;
@@ -227,7 +227,7 @@ select {
 /* Aside */
 
 .aside {
-    width: 270px;
+    width:207px;
     background-color: #fdf9ff;
     position: fixed;
     height: 100%;
